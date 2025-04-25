@@ -1,2 +1,3 @@
 # first
-this with detailing 
+this is my first detailing repository
+Author- Tanvi Dhanani
